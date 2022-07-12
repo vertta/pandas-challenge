@@ -2,6 +2,15 @@
 
 As a part of this challenge we were asked to analyze district-wide standardized test results. This data contained data for every student's math and reading scores, as well as various information on the schools they attend. The goal of this project is to showcase obvious trends in school performance.
 
+## Observations
+
+* District schools schools have overall lower passing percentage compared to charter schools with similar enrollment size.  It should be noted district schools have a higher student population.  
+* Charter schools consistently outperform district schools, however this could be a direct correlations based on student enrollment which is    typically lower in charter schools. 
+* District school still perform lower than charter schools depsite spending more per student.
+* Based on this sample size, schools that  spent less than $585 per student have higher overall percentage of passing. 
+* Schools with a total student population less than 2000 have high average math and reading scores.
+
+
 # District Summary 
 
 <img width="583" alt="image" src="https://user-images.githubusercontent.com/75756974/178413979-82fe7c7f-535a-4965-b812-46c02a61a027.png">
