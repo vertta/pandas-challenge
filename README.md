@@ -34,7 +34,7 @@ As a part of this challenge we were asked to analyze district-wide standardized 
 ## Scores By School Spending
 <img width="538" alt="image" src="https://user-images.githubusercontent.com/75756974/178413299-ce9d5ab3-7c0c-4e3b-a20e-ab7b3a10e576.png">
 
-###  Spending Summary Rangers Per Student 
+###  Spending Summary Range Per Student 
 <img width="418" alt="image" src="https://user-images.githubusercontent.com/75756974/178413404-2055dd7f-130f-4af8-83ec-cbe3c33795ab.png">
 
 ## Scores By School Size 
