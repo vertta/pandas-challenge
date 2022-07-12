@@ -1,4 +1,5 @@
-# PyCity School Analysis
+# PyCity School Analysis <img src= "https://github.com/vertta/pandas-challenge/blob/main/PyCitySchools/Images/Fantasy.png" width="200px" height="auto" align="right">
+
 
 As a part of this challenge we were asked to analyze district-wide standardized test results. This data contained data for every student's math and reading scores, as well as various information on the schools they attend. The goal of this project is to showcase obvious trends in school performance.
 
@@ -9,7 +10,7 @@ As a part of this challenge we were asked to analyze district-wide standardized 
 * District school still perform lower than charter schools depsite spending more per student.
 * Based on this sample size, schools that  spent less than $585 per student have higher overall percentage of passing. 
 * Schools with a total student population less than 2000 have high average math and reading scores.
-
+<img src= "https://github.com/vertta/pandas-challenge/blob/main/PyCitySchools/Images/education.png" width="200px" height="auto" align="left">
 
 # District Summary 
 
